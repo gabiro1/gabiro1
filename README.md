@@ -40,7 +40,7 @@
 
 <!-- ========================================================= -->
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" width="150" src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" alt="Developer animation"/>
 
@@ -71,7 +71,7 @@ I'm also exploring Linux administration, networking, cloud technologies, and cyb
 
 ### Programming Languages
 
-<div align="center">
+<div align="Left">
 
 <img src="https://skillicons.dev/icons?i=js,python,dart,bash,html,css&theme=dark" alt="Programming languages"/>
 
@@ -79,7 +79,7 @@ I'm also exploring Linux administration, networking, cloud technologies, and cyb
 
 ### Frontend Development & Design
 
-<div align="center">
+<div align="Left">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,xd&theme=dark" alt="Frontend and design technologies"/>
 
@@ -87,7 +87,7 @@ I'm also exploring Linux administration, networking, cloud technologies, and cyb
 
 ### Backend Development & Databases
 
-<div align="center">
+<div align="Left">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mysql,mongodb,sqlite&theme=dark" alt="Backend technologies and databases"/>
 
@@ -95,7 +95,7 @@ I'm also exploring Linux administration, networking, cloud technologies, and cyb
 
 ### Infrastructure, Cloud & Developer Tools
 
-<div align="center">
+<div align="Left">
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman,googlecloud,vercel&theme=dark" alt="Infrastructure and developer tools"/>
 
